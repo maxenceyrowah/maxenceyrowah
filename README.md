@@ -1,26 +1,50 @@
-# Maxence Yrowah — Développeur Frontend
+# Maxence Yrowah — Senior Angular Developer
 
-Spécialisé dans la création d'interfaces modernes et d'expériences utilisateur mémorables.  
-Basé à Paris · Disponible pour missions freelance
+Frontend Architect · RxJS & NGXS Specialist · Remote Work Enthusiast
+Basé à Abidjan, Côte d'Ivoire · Disponible pour missions
 
 ---
 
 ## Stack
 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat&logo=reactivex&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
-## Projets
+## Résumé
+
+Plus de **5 ans d'expérience** dans la conception d'architectures web robustes et scalables.
+Spécialisé dans l'optimisation des performances Angular et la gestion d'états complexes (NGXS).
+J'accompagne les entreprises dans la création d'interfaces fluides et maintenables.
+
+---
+
+## Expérience
+
+| Période | Poste | Entreprise |
+|---------|-------|------------|
+| Mars 2026 — Présent | Développeur Senior Frontend Angular | VEONE |
+| Avr. 2025 — Sept. 2025 | Développeur Frontend & Tech Lead | INCUBTEK |
+| Août 2023 — Mars 2025 | Développeur Frontend | INCUBTEK |
+| Août 2020 — Juin 2023 | Développeur Frontend | AKIL TECHNOLOGIES |
+
+---
+
+## Projets récents
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **[Portfolio](https://github.com/maxenceyrowah/portfolio)** | Portfolio personnel — design premium, animations CSS, responsive | Astro, Tailwind CSS |
+| **RTI VOD Portal** | Système d'abonnement & monétisation | Angular 19, NX, NGXS, Kaltura |
+| **MOOV Selfcare** | Refonte design system & gestion utilisateurs | Angular 21, NX, TailwindCSS |
+| **FNE e-Invoicing** | Facturation électronique normalisée | Angular Signals, TypeScript |
+| **[Portfolio](https://github.com/maxenceyrowah/portfolio)** | Portfolio personnel | Astro, Tailwind CSS |
 
 ---
 
